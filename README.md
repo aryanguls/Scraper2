@@ -1,4 +1,4 @@
-# pika_takeHome2
+# Scraper2
 Scrapping stock data preview
 
 To Run - 
